@@ -36,6 +36,7 @@ try:
   gitname = params.get("GithubUsername").decode('utf8')
 except AttributeError:
   dongle_id = "None"
+  gitname = "None"
 try:
   ip = requests.get('https://checkip.amazonaws.com/').text.strip()
 except Exception:
