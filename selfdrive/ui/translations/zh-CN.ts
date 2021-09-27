@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Enable Tethering</source>
-        <translation>启用网络热点</translation>
+        <translation>启用热点</translation>
     </message>
     <message>
         <source>Tethering Password</source>
@@ -32,7 +32,7 @@
     <name>DevicePanel</name>
     <message>
         <source>Dongle ID</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Serial</source>
@@ -48,11 +48,11 @@
     </message>
     <message>
         <source>Preview the driver facing camera to help optimize device mounting position for best driver monitoring experience. (vehicle must be off)</source>
-        <translation type="unfinished">预览面向驾驶员的摄像头，以帮助优化设备安装位置，获得最佳的驾驶员监控体验。（引擎必须熄火）</translation>
+        <translation>预览面向驾驶员的摄像头，以帮助优化设备安装位置，获得最佳的驾驶员监控体验。（引擎必须熄火）</translation>
     </message>
     <message>
         <source>openpilot requires the device to be mounted within 4° left or right and within 5° up or down. openpilot is continuously calibrating, resetting is rarely required.</source>
-        <translation type="unfinished">openpilot 需要将设备固定在左右偏差 4° 以内，上下偏差 5° 以内。摄像头在后台持续自动校准，很少有需要重置的情况。</translation>
+        <translation>openpilot 需要将设备固定在左右偏差 4° 以内，上下偏差 5° 以内。摄像头在后台持续自动校准，很少有需要重置的情况。</translation>
     </message>
     <message>
         <source>Reset Calibration</source>
@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>Review Training Guide</source>
-        <translation>回顾引导</translation>
+        <translation>回顾使用手册</translation>
     </message>
     <message>
         <source>REVIEW</source>
@@ -96,11 +96,11 @@
     </message>
     <message>
         <source>Review the rules, features, and limitations of openpilot</source>
-        <translation>回顾 openpilot 使用规则、特性和限制。</translation>
+        <translation>查看 Openpilot 使用条款、特性和局限性。</translation>
     </message>
     <message>
         <source>Are you sure you want to review the training guide?</source>
-        <translation>是否确定重新查看使用引导？</translation>
+        <translation>确定重新回顾使用手册吗？</translation>
     </message>
     <message>
         <source>Regulatory</source>
@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>Are you sure you want to reboot?</source>
-        <translation>你确定要重新启动吗？</translation>
+        <translation>确定要重新启动吗？</translation>
     </message>
     <message>
         <source>Power Off</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Are you sure you want to power off?</source>
-        <translation>您确定要关机吗？</translation>
+        <translation>确定要关机吗？</translation>
     </message>
 </context>
 <context>
@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>for </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Wrong password</source>
@@ -177,11 +177,11 @@
     <name>NvgWindow</name>
     <message>
         <source>FOLLOW</source>
-        <translation type="vanished">车距</translation>
+        <translation>车距</translation>
     </message>
     <message>
         <source>REL DIST</source>
-        <translation type="vanished">真实车距</translation>
+        <translation>真实车距</translation>
     </message>
 </context>
 <context>
@@ -204,7 +204,7 @@
     </message>
     <message>
         <source>14 days of storage</source>
-        <translation>14 天的云端行车记录</translation>
+        <translation>14 天云端行车记录</translation>
     </message>
     <message>
         <source>Developer perks</source>
@@ -234,7 +234,7 @@
     <name>QObject</name>
     <message>
         <source>Auto Shutdown In</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source> mins</source>
@@ -246,23 +246,23 @@
     </message>
     <message>
         <source>FOLLOW</source>
-        <translation>车距</translation>
+        <translation>刹车时间</translation>
     </message>
     <message>
         <source>REL DIST</source>
-        <translation>相对车距</translation>
+        <translation>车距</translation>
     </message>
     <message>
         <source>../assets/fonts/opensans_regular.ttf</source>
-        <translation type="vanished">/system/fonts/NotoSansTC-Light.otf</translation>
+        <translation>/system/fonts/NotoSansTC-Light.otf</translation>
     </message>
     <message>
         <source>../assets/fonts/opensans_semibold.ttf</source>
-        <translation type="vanished">/system/fonts/NotoSansTC-Regular.otf</translation>
+        <translation>/system/fonts/NotoSansTC-Regular.otf</translation>
     </message>
     <message>
         <source>../assets/fonts/opensans_bold.ttf</source>
-        <translation type="vanished">/system/fonts/NotoSansTC-Bold.otf</translation>
+        <translation>/system/fonts/NotoSansTC-Bold.otf</translation>
     </message>
     <message>
         <source>SPT</source>
@@ -282,15 +282,15 @@
     </message>
     <message>
         <source>REL SPEED</source>
-        <translation>相对速度</translation>
+        <translation>速度</translation>
     </message>
     <message>
         <source>OFF</source>
-        <translation>关闭</translation>
+        <translation>停机</translation>
     </message>
     <message>
         <source>ENG RPM</source>
-        <translation>发动机转速</translation>
+        <translation>发动机</translation>
     </message>
     <message>
         <source>REAL STEER</source>
@@ -302,27 +302,27 @@
     </message>
     <message>
         <source>openpilot Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Openpilot不可用</translation>
     </message>
     <message>
         <source>Waiting for controls to start</source>
-        <translation type="unfinished"></translation>
+        <translation>等待控制系统启动</translation>
     </message>
     <message>
         <source>TAKE CONTROL IMMEDIATELY</source>
-        <translation type="unfinished"></translation>
+        <translation>马上接管</translation>
     </message>
     <message>
         <source>Controls Unresponsive</source>
-        <translation type="unfinished"></translation>
+        <translation>系统无响应</translation>
     </message>
     <message>
         <source>Enable this if you wish to shutdown your device after the wait period specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>设置定时关闭设备</translation>
     </message>
     <message>
         <source>Enable this if you wish to shutdown your device automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>自动关机</translation>
     </message>
 </context>
 <context>
@@ -333,11 +333,11 @@
     </message>
     <message>
         <source>Enable Updater Service</source>
-        <translation>启用自动更新服务</translation>
+        <translation>启用更新服务</translation>
     </message>
     <message>
         <source>Reboot required.</source>
-        <translation>需要重新启动。</translation>
+        <translation>重启后生效。</translation>
     </message>
     <message>
         <source>Enable Log Service</source>
@@ -345,15 +345,15 @@
     </message>
     <message>
         <source>Enable Uploader Service</source>
-        <translation>启用记录上传服务</translation>
+        <translation>启用上传服务</translation>
     </message>
     <message>
         <source>Enable Athenad Service</source>
-        <translation>启用云端连线服务</translation>
+        <translation>启用云服务</translation>
     </message>
     <message>
         <source>Enable On-Road Dashcam</source>
-        <translation>启用行车记录器服务</translation>
+        <translation>启用屏幕录像</translation>
     </message>
     <message>
         <source>Enable Appd Service</source>
@@ -361,12 +361,12 @@
     </message>
     <message>
         <source>Enable GPS Logger</source>
-        <translation>启用 GPS 记录服务</translation>
+        <translation>启用GPS记录</translation>
     </message>
     <message>
         <source>This will store your track in /sdcard/gpx_logs/.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>存在位置/sdcard/gpx_logs/。重启后生效</translation>
     </message>
     <message>
         <source>Camera Offset</source>
@@ -374,7 +374,7 @@ Reboot required.</source>
     </message>
     <message>
         <source>Enable Hotspot On Boot</source>
-        <translation>启用开机启动网络热点</translation>
+        <translation>开机启动网络热点</translation>
     </message>
     <message>
         <source>Enable No Battery Support</source>
@@ -387,22 +387,22 @@ Do not use this if you have a C2, Reboot required.</source>
     </message>
     <message>
         <source>Enable White/Grey Panda Support</source>
-        <translation>启用白/灰熊支持</translation>
+        <translation>老熊模式(白熊/灰熊)</translation>
     </message>
     <message>
         <source>Enable this option ONLY on white / grey panda.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你是白熊或灰熊，请打开这个选项</translation>
     </message>
     <message>
         <source>Enable No GPS Panda Support</source>
-        <translation>启用无 GPS 支持</translation>
+        <translation>无GPS芯片支持</translation>
     </message>
     <message>
         <source>Enable this option ONLY on Non-GPS Pandas.
 This will need to recompile boardd (takes a while).
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Enable Jetson Support</source>
@@ -411,7 +411,8 @@ Reboot required.</source>
     <message>
         <source>Enable this option if you intend to run dp on Nvidia Jetson.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您打算在 Nvidia Jetson 上运行 dp，请启用此选项。
+需要重新启动。</translation>
     </message>
     <message>
         <source>Mark As Prebuilt</source>
@@ -444,7 +445,7 @@ WARNING: You may need to disable it once switch to a new version.</source>
     </message>
     <message>
         <source> mph</source>
-        <translation type="unfinished"></translation>
+        <translation> mph</translation>
     </message>
     <message>
         <source>Enable Cont. ALCA</source>
@@ -456,31 +457,31 @@ WARNING: You may need to disable it once switch to a new version.</source>
     </message>
     <message>
         <source>Blinker Off Recovery Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>无盲区恢复延时</translation>
     </message>
     <message>
         <source>Seconds after blinker off then OP will take back control.</source>
-        <translation type="unfinished"></translation>
+        <translation>盲区无车后关闭几秒钟后，OP将收回控制权。</translation>
     </message>
     <message>
         <source>Lateral Ctrl Mode</source>
-        <translation>横向控制模式</translation>
+        <translation>变道模式</translation>
     </message>
     <message>
         <source>0 = No Lateral Ctrl On Blinkers
 1 = Lane Change Assist (LCA)
 2 = Auto Lane Change Assist (ALCA)</source>
-        <translation>0 = 不启用辅助变道
+        <translation>0 = 不启用
 1 = 辅助变道
 2=自动变道</translation>
     </message>
     <message>
         <source>Use Accel Profile</source>
-        <translation type="vanished">启用加速模板</translation>
+        <translation>使用加速模板</translation>
     </message>
     <message>
         <source>Use Following Profile</source>
-        <translation type="vanished">启用跟车模板</translation>
+        <translation>使用跟车模板</translation>
     </message>
     <message>
         <source>Allow Gas Pedal Pressed</source>
@@ -496,7 +497,7 @@ WARNING: You may need to disable it once switch to a new version.</source>
     </message>
     <message>
         <source>Adjust to &lt; 10 to reset to stock value.</source>
-        <translation type="unfinished"></translation>
+        <translation> 当值&lt;10 时重置值为原车值?_?</translation>
     </message>
     <message>
         <source>RESET</source>
@@ -531,11 +532,19 @@ WARNING: You may need to disable it once switch to a new version.</source>
         <comment>0 = Default
 1 = Screen Off While Reversing
 2 = Screen Off While Driving</comment>
-        <translation type="unfinished"></translation>
+        <translation>屏幕显示模式</translation>
     </message>
     <message>
+        <source>0 = Default
+1 = Screen Off While Reversing
+2 = Screen Off While Driving</source>
+        <translation>0 = 常亮
+1 = 倒车时关闭屏幕
+2 = 行车时关闭屏幕</translation>
+    </message>	
+    <message>
         <source>Screen Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>屏幕亮度</translation>
     </message>
     <message>
         <source>AUTO</source>
@@ -547,7 +556,7 @@ WARNING: You may need to disable it once switch to a new version.</source>
     </message>
     <message>
         <source>Display Speed</source>
-        <translation>显示速度</translation>
+        <translation>显示行车速度</translation>
     </message>
     <message>
         <source>Display Lane Prediction</source>
@@ -558,8 +567,8 @@ WARNING: You may need to disable it once switch to a new version.</source>
         <translation>显示前车标记△</translation>
     </message>
     <message>
-        <source>Display Turning Signal / Blinkers</source>
-        <translation type="vanished">显示转向灯</translation>
+        <source>Display Turn Signal / Blinkers</source>
+        <translation>显示转向灯/盲区显示</translation>
     </message>
     <message>
         <source>Display Event / Steer Icon</source>
@@ -571,14 +580,14 @@ WARNING: You may need to disable it once switch to a new version.</source>
     </message>
     <message>
         <source>Display Driver Monitor Indicator</source>
-        <translation>显示驾驶员监指示</translation>
+        <translation>显示驾驶员监控标志</translation>
     </message>
     <message>
         <source>Display Side Info</source>
         <translation>显示侧边信息框</translation>
     </message>
     <message>
-        <source>Display Top Info Bar</source>
+        <source>Display Top Info</source>
         <translation>显示顶部信息条</translation>
     </message>
     <message>
@@ -587,19 +596,27 @@ WARNING: You may need to disable it once switch to a new version.</source>
     </message>
     <message>
         <source>Override At</source>
-        <translation type="vanished">低速重写</translation>
+        <translation>低速重写</translation>
     </message>
     <message>
-        <source>Override feature will be enabled when set cruise speed is lower than this value.</source>
-        <translation type="vanished">当设定巡航速度低于此值时，将启用重写功能</translation>
+        <source>Override Speed When Below</source>
+        <translation>低于此速度将会触发重写</translation>
     </message>
     <message>
-        <source>Override To</source>
-        <translation type="vanished">重写至</translation>
+        <source>Override feature will be enabled when set cruise speed is lower than this value.
+1 km/h = 0.62 mph.</source>
+        <translation>当设定巡航速度低于此值时，将启用重写功能
+1 km/h = 0.62 mph</translation>
     </message>
     <message>
-        <source>Override set speed to this value.</source>
-        <translation type="vanished">将设定速度重写到此值</translation>
+        <source>Override Speed To</source>
+        <translation>重写至</translation>
+    </message>
+    <message>
+        <source>Override set speed to this value.
+1 km/h = 0.62 mph</source>
+        <translation>将设定速度重写到此值。
+1 km/h = 0.62 mph</translation>
     </message>
     <message>
         <source>If your current speed is greater than &apos;Override To&apos; but lower than &apos;Override At&apos;, it will use your current speed instead.</source>
@@ -618,12 +635,12 @@ WARNING: You may need to disable it once switch to a new version.</source>
         <translation>启用ZSS支持</translation>
     </message>
     <message>
-        <source>Enable FP Physical Button Ctrl</source>
-        <translation type="vanished">启用跟车模板按钮关联</translation>
+        <source>Enable FM Physical Button Ctrl</source>
+        <translation>启用跟车模板按钮关联</translation>
     </message>
     <message>
-        <source>Enable AP Physical Button Ctrl</source>
-        <translation type="vanished">启用加速模板按钮关联</translation>
+        <source>Enable AM Physical Button Ctrl</source>
+        <translation>启用加速模板按钮关联</translation>
     </message>
     <message>
         <source>Enable No Relay Mode</source>
@@ -641,7 +658,8 @@ Reboot required.</source>
     <message>
         <source>Enable this will increase steering, USE IT ONLY if you have a modded EPS firmware.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>启用这将增加转向，仅当您有改装的 EPS 固件时才使用它。
+需要重新启动。</translation>
     </message>
     <message>
         <source>Force to display km/h in HUD</source>
@@ -654,12 +672,13 @@ Reboot required.</source>
     </message>
     <message>
         <source>Enable Smart MDPS Support</source>
-        <translation type="unfinished"></translation>
+        <translation>启用智能 MDPS 支持</translation>
     </message>
     <message>
         <source>Enable this will increase steering and allow steering down to to 0.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>启用这将增加转向并允许转向下降到 0。
+需要重新启动。</translation>
     </message>
     <message>
         <source>Enable J533 + White Panda Mode</source>
@@ -668,24 +687,26 @@ Reboot required.</source>
     <message>
         <source>Credit to jyoung8607.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>作者jyoung8607。
+需要重启</translation>
     </message>
     <message>
         <source>Enable Timebomb Assist</source>
-        <translation type="unfinished"></translation>
+        <translation>启用VW6分钟辅助</translation>
     </message>
     <message>
         <source>Hardware - General</source>
-        <translation>硬体-通用</translation>
+        <translation>设备-通用</translation>
     </message>
     <message>
         <source>Hardware - Panda</source>
-        <translation>硬件-Panda</translation>
+        <translation>设备-Panda</translation>
     </message>
     <message>
         <source>Reboot recommended.
 Reboot?</source>
-        <translation type="unfinished"></translation>
+        <translation>建议重启。
+重启？</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -755,7 +776,9 @@ Reboot?</source>
         <source>See: https://github.com/LexusRXopenpilotUG/openpilot
 Credit to @nelsonchen &amp; @sumedhekaru
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>参见：https://github.com/LexusRXopenpilotUG/openpilot
+via @nelsonchen @sumedhekaru
+需要重新启动。</translation>
     </message>
     <message>
         <source>OPEN</source>
@@ -772,222 +795,233 @@ Reboot required.</source>
     <message>
         <source>Enable this if you wish to get automatic update.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>自动升级，重启后生效。</translation>
     </message>
     <message>
         <source>Enable this if you wish to log your drive.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>记录服务，重启后生效。</translation>
     </message>
     <message>
         <source>Enable this if you wish to upload your driving log.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>上传日志，重启后生效。</translation>
     </message>
     <message>
         <source>Enable this if you wish to use cloud services such as comma prime.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>云服务(需要COMMA会员),重启后生效。</translation>
     </message>
     <message>
         <source>Enable this if you wish to record screen, just like a dashcam.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>屏幕录像(/sdcard/dashcam)，重启后生效。</translation>
     </message>
     <message>
         <source>Enable this if you wish to run your own android app.
 See /data/openpilot/selfdrive/dragonpilot/HOWTO-APPD.md for more information.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Adjust your camera position if your device is not mounted as per guidance.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用安卓APP，重启后生效。
+/data/openpilot/selfdrive/dragonpilot/HOWTO-APPD.md</translation>
     </message>
     <message>
         <source>Fan Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>散热风扇模式</translation>
     </message>
     <message>
         <source>0 = Default
 1 = Quiet
 2 = Full Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>0 = 默认
+1 = 静音
+2 = 全速</translation>
     </message>
     <message>
         <source>Tap the button to update your panda firmware.
 The device should reboot once if it finish updating.</source>
-        <translation type="unfinished"></translation>
+        <translation>点击按钮更新您的熊猫固件。
+如果完成更新，设备应重新启动一次。</translation>
     </message>
     <message>
         <source>RECOVER</source>
-        <translation type="unfinished"></translation>
+        <translation>刷写</translation>
     </message>
     <message>
         <source>Tap the button ONLY if your panda ran into issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>仅当您的熊猫遇到问题时才点击按钮</translation>
     </message>
     <message>
         <source>Tap the button to delete ALL your driving logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>删除所有行车记录信息</translation>
     </message>
     <message>
         <source>Once the vehicle meets all ALCA criteria, it will wait for the seconds set here before peforming lane change automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>一旦车辆满足所有 自动辅助变道 条件，它将等待此处设置的秒数，然后自动执行车道变换。</translation>
     </message>
     <message>
         <source>ALCA minimum engage speed in mph.
 1 mph = 1.61 km/h.</source>
-        <translation type="unfinished"></translation>
+        <translation>自动辅助变道最低接合速度（英里/小时）
+1 mph = 1.61 km/h</translation>
     </message>
     <message>
         <source>Once enabled, it will perform ALCA continuously.</source>
-        <translation type="unfinished"></translation>
+        <translation>一旦启用，它将连续执行 自动辅助变道。</translation>
     </message>
     <message>
         <source>LCA minimum engage speed in mph.
 1 mph = 1.61 km/h.</source>
-        <translation type="unfinished"></translation>
+        <translation>辅助变道 最低接合速度（英里/小时）。
+1 英里/小时 = 1.61 公里/小时。</translation>
     </message>
     <message>
         <source>Enable this if you wish openpilot to stay engaged when gas is pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>踩油门不退出Openpilot</translation>
     </message>
     <message>
         <source>Enable this if you wish openpilot to only work on D drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您希望 openpilot 仅在 D 档启用，请启用此选项。</translation>
     </message>
     <message>
         <source>Enable this if you wish to use LQR instead of PID or INDI controller.
 WORKS WELL ONLY ON SOME VEHICLES.
 More linear steering experience.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您希望使用 LQR 而不是 PID 或 INDI 控制器，请启用此选项。
+仅适用于某些车辆。
+更线性的转向体验。</translation>
     </message>
     <message>
         <source>Adjust this if you wish to let openpilot drive slightly towards to left (+) or right (-)</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您希望让 openpilot 稍微向左 (+) 或向右 (-) 驱动，请调整此项</translation>
     </message>
     <message>
         <source>Adjust your screen brightness.</source>
-        <translation type="unfinished"></translation>
+        <translation>调整屏幕亮度</translation>
     </message>
     <message>
         <source>Adjust your alert volume.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display your current speed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display the lane/path prediction.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display the triangle lead car indicator.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Display Turn Signal / Blinkers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display turn signals.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display the icon.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display your current SET cruise speed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display steering angle / lead car distance / engine RPM.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to display time / system temp / battery level.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Override Speed When Below</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Override feature will be enabled when set cruise speed is lower than this value.
-1 km/h = 0.62 mph.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> km/h</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Override Speed To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Override set speed to this value.
-1 km/h = 0.62 mph</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use Current Speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to fix stop and go (SnG) issue on some models.
-Reboot required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this if you have ZSS module installed.
-Reboot required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable this to assist you the 6 mins. LKA limit on some models.</source>
-        <translation type="unfinished"></translation>
+        <translation>调整告警音量</translation>
     </message>
     <message>
         <source>Manually Control Accel Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>手动控制加速模式</translation>
     </message>
     <message>
         <source>Enable this if you wish to adjust openpilot&apos;s acceleration control.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你希望调整 openpilot 的加速控制，请启用此选项。</translation>
     </message>
     <message>
         <source>Manually Control Following Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>手动控制跟车模式</translation>
     </message>
     <message>
         <source>Enable this if you wish to adjust openpilot&apos;s following distance.
 openpilot by default keeps 1.8 secs distance to lead car.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您希望调整 openpilot 的跟车距离，请启用此选项。
+默认情况下，openpilot 与引导车保持 1.8 秒的距离。</translation>
     </message>
     <message>
-        <source>Enable FM Physical Button Ctrl</source>
-        <translation type="unfinished"></translation>
+        <source>Fan Mode</source>
+        <comment>0 = Default
+1 = Quiet
+2 = Full Speed</comment>
+        <translation>散热风扇模式</translation>
     </message>
     <message>
-        <source>Enable this to link Following Mode (FM) control to the physical button.
+        <source>Tap this to update your panda firmware.
+The device should reboot once if it finish updating.</source>
+        <translation>点按此按钮可更新您的熊猫固件。
+如果完成更新，设备应重新启动一次</translation>
+    </message>
+    <message>
+        <source>Tap this ONLY if your panda ran into issue.</source>
+        <translation>仅当熊猫遇到问题时才点击此选项。</translation>
+    </message>
+    <message>
+        <source> kph</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use Current Speed</source>
+        <translation>使用当前速度</translation>
+    </message>
+    <message>
+        <source>Enable this to link Following Profile (FM) control to the physical button.
 ONLY WORK ON SOME VEHICLES.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable AM Physical Button Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>使用原车物理按钮控制 跟车模板 (FM)
+仅适用于某些车辆。
+需要重新启动。</translation>
     </message>
     <message>
         <source>Enable this to link Accel Mode (AM) control to the physical button.
 ONLY WORK ON SOME VEHICLES.
 Reboot required.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用原车物理按钮控制 加速模板 (AM)。
+仅适用于某些车辆。
+需要重新启动。</translation>
     </message>
+    <message>
+        <source>Display Turning Signal / Blinkers</source>
+        <translation>显示转向灯及盲区指显</translation>
+    </message>
+    <message>
+        <source>Display Top Info Bar</source>
+        <translation>显示顶部信息条</translation>
+    </message>
+    <message>
+        <source>Enable MapD</source>
+        <translation>启用OSM地图</translation>
+    </message>
+    <message>
+        <source>Use OSM to assist lateral/longitudinal control.
+Please note:
+ 1. This feature will works only when your car support OP longitudinal.
+2. MapD will contribute your route to OSM for future improvement automatically.
+3. You can add your own offset for mapd just follow the readme under /selfdrive/mapd/."</source>
+        <translation>启用OSM地图</translation>
+    </message>
+    <message>
+        <source>Enable vision based turn control</source>
+        <translation>启用基于视觉的转弯控制</translation>
+    </message>
+    <message>
+        <source>Use vision path predictions to estimate the appropiate speed to drive through turns ahead.</source>
+        <translation>使用视觉路径预测来估计适当的速度以通过前方转弯。</translation>
+    </message>
+    <message>
+        <source>Enable Speed Limit Control</source>
+        <translation>限速控制</translation>
+    </message>
+    <message>
+        <source>Use speed limit signs information from map data and car interface to automatically adapt cruise speed to road limits.</source>
+        <translation>使用来自地图数据和汽车界面的限速标志信息自动调整巡航速度以适应道路限制。</translation>
+    </message>
+    <message>
+        <source>Enable Speed Limit Offset</source>
+        <translation>速度限制偏移</translation>
+    </message>
+    <message>
+        <source>Set speed limit slightly higher than actual speed limit for a more natural drive.</source>
+        <translation>将速度限制设置为略高于实际速度限制，以实现更自然的驾驶。</translation>
+    </message>
+    <message>
+        <source>Enable Map Data Turn Control</source>
+        <translation>使用地图数据控制转向</translation>
+    </message>
+    <message>
+        <source>Use curvature info from map data to define speed limits to take turns ahead</source>
+        <translation>使用地图数据中的曲率信息来设置限速</translation>
+    </message>
+    <message>
+        <source>Show debug UI elements</source>
+        <translation>显示调试UI图标</translation>
+    </message>
+    <message>
+        <source>Show UI elements that aid debugging.</source>
+        <translation>显示有助于调试的UI元素。</translation>
+    </message>
+
 </context>
 <context>
     <name>SettingsWindow</name>
@@ -1009,19 +1043,23 @@ Reboot required.</source>
     </message>
     <message>
         <source>DP - General</source>
-        <translation>DP-通用</translation>
+        <translation>DP - 通用</translation>
     </message>
     <message>
         <source>DP - Controls</source>
-        <translation>DP-控制</translation>
+        <translation>DP - 控制</translation>
     </message>
     <message>
         <source>DP - UI</source>
-        <translation>DP-显示</translation>
+        <translation>DP - 显示</translation>
     </message>
     <message>
         <source>DP - Cars</source>
-        <translation>DP-车型</translation>
+        <translation>DP - 车型</translation>
+    </message>
+    <message>
+        <source>DP - MapD</source>
+        <translation>DP - 地图</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -1067,6 +1105,30 @@ OFFLINE</source>
     </message>
     <message>
         <source>NO
+PANDA</source>
+        <translation>熊猫
+未连接</translation>
+    </message>
+    <message>
+        <source>GOOD
+TEMP</source>
+        <translation>温度
+良好</translation>
+    </message>
+    <message>
+        <source>OK
+TEMP</source>
+        <translation>温度
+还行</translation>
+    </message>
+    <message>
+        <source>HIGH
+TEMP</source>
+        <translation>温度
+很高</translation>
+    </message>
+    <message>
+        <source>NO
 PRIME</source>
         <translation>没有
 高级会员</translation>
@@ -1074,13 +1136,13 @@ PRIME</source>
     <message>
         <source>CONNECT
 OFFLINE</source>
-        <translation>远程服务
+        <translation>云服务
 已离线</translation>
     </message>
     <message>
         <source>CONNECT
 ONLINE</source>
-        <translation>远程服务
+        <translation>云务
 已连线</translation>
     </message>
     <message>
@@ -1138,7 +1200,7 @@ SEARCHING</source>
     </message>
     <message>
         <source>The last time openpilot successfully checked for an update. The updater only runs while the car is off.</source>
-        <translation type="unfinished"></translation>
+        <translation>openpilot 上次成功检查更新的时间。 更新程序仅在熄火状态时可用。</translation>
     </message>
     <message>
         <source>Check for Update</source>
@@ -1165,19 +1227,19 @@ SEARCHING</source>
     <name>SshControl</name>
     <message>
         <source>Warning: This grants SSH access to all public keys in your GitHub settings. Never enter a GitHub username other than your own. A comma employee will NEVER ask you to add their GitHub username.</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：这将授予对 GitHub 设置中所有公钥的 SSH 访问权限。 切勿输入别人的 GitHub 用户名。 逗号不会要求您添加他们的 GitHub 用户名。</translation>
     </message>
     <message>
         <source>Enter your GitHub username</source>
-        <translation type="unfinished"></translation>
+        <translation>输入你的Github用户名</translation>
     </message>
     <message>
         <source>REMOVE</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>ADD</source>
-        <translation type="unfinished"></translation>
+        <translation>添加</translation>
     </message>
 </context>
 <context>
@@ -1224,7 +1286,7 @@ SEARCHING</source>
     </message>
     <message>
         <source>Upload full logs and full resolution video by default while on WiFi. If not enabled, individual logs can be marked for upload at my.comma.ai/useradmin.</source>
-        <translation type="unfinished"></translation>
+        <translation>在 WiFi 上默认上传完整日志和全分辨率视频。 如果未启用，则可以在 my.comma.ai/useradmin 将单个日志标记为上传。</translation>
     </message>
     <message>
         <source>Record and Upload Driver Camera</source>
@@ -1236,11 +1298,11 @@ SEARCHING</source>
     </message>
     <message>
         <source>塞 Disable use of lanelines (Alpha) 塞</source>
-        <translation>塞 无车道线模式(测试) 塞</translation>
+        <translation>塞 忽略车道线(测试) 塞</translation>
     </message>
     <message>
         <source>In this mode openpilot will ignore lanelines and just drive how it thinks a human would.</source>
-        <translation type="unfinished">启用这个模式后，Openpilot 将会忽略车道线驾驶。</translation>
+        <translation>启用这个模式后，Openpilot 将会忽略车道线驾驶。</translation>
     </message>
     <message>
         <source>Use 24h format instead of am/pm</source>
@@ -1252,7 +1314,7 @@ SEARCHING</source>
     </message>
     <message>
         <source>Show ETA in 24h format</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1267,7 +1329,7 @@ SEARCHING</source>
     </message>
     <message>
         <source>FORGET</source>
-        <translation>忘记</translation>
+        <translation>忽略</translation>
     </message>
     <message>
         <source>Forget WiFi Network &quot;</source>
