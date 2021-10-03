@@ -58,4 +58,5 @@ struct DragonConf {
   dpSrCustom @44 :Float32;
   dpAppd @45 :Bool;
   dpMapd @46 :Bool;
+  dpUiColorLine @47 :Bool;
 }
