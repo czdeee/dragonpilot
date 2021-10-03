@@ -107,6 +107,7 @@ confs = [
   {'name': 'dp_prebuilt', 'default': False, 'type': 'Bool', 'conf_type': ['param']},
   {'name': 'dp_gpxd', 'default': False, 'type': 'Bool', 'conf_type': ['param']},
   {'name': 'dp_mapd', 'default': False, 'type': 'Bool', 'conf_type': ['param', 'struct']},
+  {'name': 'dp_ui_color_line', 'default': True, 'type': 'Bool', 'conf_type': ['param', 'struct']},
   # custom server support
   # {'name': 'dp_custom_server', 'default': False, 'type': 'Bool', 'conf_type': ['param', 'struct']},
   # {'name': 'dp_custom_server_url', 'default': 'api.retropilot.org', 'type': 'Text', 'depends': [{'name': 'dp_custom_server', 'vals': [True]}], 'conf_type': ['param', 'struct']},
